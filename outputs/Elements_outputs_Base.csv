@@ -1,0 +1,11 @@
+image_path,model_output,label_color,label_shape,label_texture
+exported_elements_dataset/000/0000.png,<image>The shapes of the 4 elements of the 4-colour tableau.,red,square,solid
+exported_elements_dataset/000/0001.png,<image>Three-dimensional shapes,red,square,solid
+exported_elements_dataset/000/0002.png,<image>The colors of the French flag,red,square,solid
+exported_elements_dataset/000/0003.png,<image>A 3-D image of a four-way intersection of two lines with a common intersection point.,red,square,solid
+exported_elements_dataset/000/0004.png,<image>An example of a 3D object,red,square,solid
+exported_elements_dataset/000/0005.png,<image>Figure 20: The 2-dimensional case of the 3-dimensional polytopes,red,square,solid
+exported_elements_dataset/000/0006.png,<image>The original 8-bit version of the game.,red,square,solid
+exported_elements_dataset/000/0007.png,<image>Set of 4 figures that are equivalent under the 3D Minkowski sum.,red,square,solid
+exported_elements_dataset/000/0008.png,<image>The 4D grid of the 4D square,red,square,solid
+exported_elements_dataset/000/0009.png,<image>A 3D Christmas Tree,red,square,solid
