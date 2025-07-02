@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project explores visual-language modeling and interpretability using the SmolVLM family of models, specifically the SmolVLM-Instruct and SmolVLM-Base variants. 
+This project explores visual-language modeling and interpretability using the [SmolVLM](https://huggingface.co/papers/2504.05299) family of models, specifically the SmolVLM-Instruct and SmolVLM-Base variants. 
 It leverages two datasets: the [merve/vqav2-small](https://huggingface.co/datasets/merve/vqav2-small) dataset for visual question answering tasks and the elements dataset based on [this paper](https://arxiv.org/pdf/2404.03713v1) containing images annotated with object properties like color, shape, and texture. 
 The project performs visual-language inference to generate descriptive answers, and uses embedding-based analyses including attention heatmap visualizations and PCA projections of vision patch embeddings to interpret how the models relate image regions to text inputs. The resulting visualizations provide insights into model focus and patch-level representations for both natural images and object datasets.
 
