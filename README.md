@@ -12,6 +12,8 @@ Create environment to install the relevant packages using:
 
 `conda env create -f smolvlm.yml --name smolvlm`
 
+`conda activate smolvlm`
+
 ## The scripts folder
 
 - `merve_attention.py` - Generates attention heatmaps by visualizing the similarity between visual patches and question embeddings using the `SmolVLM-256M-Instruct` model on the `merve/vqav2-small` dataset.
